@@ -7,6 +7,6 @@
 4. Run ./gitinit.sh <repo_name> 
 
 
-###TODO
+### TODO
 1. Add the option to initialize git in the current directory, skipping the mkdir and cd commands. 
 2. Probably some more error handling. 
